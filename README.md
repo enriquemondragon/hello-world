@@ -2,9 +2,9 @@
 getting started with GitHub
 ---
 **Presentation**
-| Concept | Personal Info |
+| Concept | Personal_Info |
 | ----------- | ----------- |
-| firstName | Enrique |
-| lastName | Mondragon |
+| First_Name | Enrique |
+| Last_Name | Mondragon |
 
-==The End==
+*The End*
