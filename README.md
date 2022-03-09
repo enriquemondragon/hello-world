@@ -2,10 +2,9 @@
 getting started with GitHub
 ---
 **Presentation**
-	```
-{
-  "firstName": "Enrique",
-  "lastName": "Mondragon"
-}
-```
+| Concept | Personal Info |
+| ----------- | ----------- |
+| firstName | Enrique |
+| lastName | Mondragon |
+
 ==The End==
